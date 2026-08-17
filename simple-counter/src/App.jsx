@@ -24,6 +24,8 @@ function App() {
       setCount(0);
     }
   };
+
+  console.log(count)
   return (
     <div
       style={{
